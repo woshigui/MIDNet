@@ -15,7 +15,6 @@ MIDNet: Deblurring Network for Material Microstructure Images
 
 We utilize a dataset containing 120 paired images with both low and high quality to investigate material microstructure fuzziness.
 
-<<<<<<< HEAD
 | ![img](./figures/wps4.png) |  ![](./figures/wps5.png)   |
 | :------------------------: | :------------------------: |
 | ![img](./figures/wps6.png) | ![img](./figures/wps7.png) |
