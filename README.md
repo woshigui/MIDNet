@@ -15,6 +15,7 @@ MIDNet: Deblurring Network for Material Microstructure Images
 
 We utilize a dataset containing 120 paired images with both low and high quality to investigate material microstructure fuzziness.
 
+<<<<<<< HEAD
 | ![img](README.assets/wps4.png) |  ![](README.assets/wps5.png)   |
 | :----------------------------: | :----------------------------: |
 | ![img](README.assets/wps6.png) | ![img](README.assets/wps7.png) |
@@ -29,3 +30,6 @@ We refer to code from [NAFNet](https://github.com/megvii-research/NAFNet). Their
 
 NAFNet:   Chen L, Chu X, Zhang X, et al. Simple baselines for image restoration[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 17-33.
 
+=======
+![exp_1](figures/5-1.gif)
+>>>>>>> eb24da84b98c8b6cafb237229af8a14f515dae10
